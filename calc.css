@@ -14,6 +14,7 @@ body {
     display: flex;
     flex-direction: column;
     background-color: #f3edf7;
+    width: 35%;
 
     #display {
         text-align: right;
@@ -30,7 +31,6 @@ body {
     #numpad {
         display: flex;
         flex-wrap: wrap;
-        border-radius: 32px 32px 0 0;
         background-color: #e6e0e9;
         padding: 24px;
         gap: 8px;
